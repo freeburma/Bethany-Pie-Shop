@@ -35,6 +35,19 @@ I was struggling with Migration at "Adding Data with EF Core" module in ASP.Net 
 
 ===========================================================================
 
+## To Run the Project in Command Prompt (Terminal)
+1. Go to the Solution where you store this project (E. cd E:\Programing\ASP .Net\PieShop_MVC_Core_2\PieShop_MVC_Core_2).
+   Note: The file path may different on location of your project. 
+   
+   Run the following ### Commands (You need to set the Environment Path to run DOTNET COMMANDS  : 
+      
+   1. $ dotnet restore
+   2. $ dotnet watch run 
+      is a middleware that you don't have to recompile when you make changes in your code. You may need to run ### "dotnet restore" 
+      when you added the new C# files. 
+      
+![dotnet](https://user-images.githubusercontent.com/15990617/31258682-688fff04-aa9d-11e7-8c7f-96597378dff9.JPG)
+      
 
 
 

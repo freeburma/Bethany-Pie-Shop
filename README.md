@@ -14,7 +14,11 @@ If you are interesed this course, please go to www.pluralsight.com. Unfortunatel
 
 ===========================================================================
 
-## To Update PieShop .Net Core 1.1 to .Net Core 2.0 
+### Source Code using .Net Core 1.1 or Download the exercise files from pluralsight (Note: Not running anymore):
+https://github.com/freeburma/PieShop
+
+
+## To Update BathPieShop .Net Core 1.1 to .Net Core 2.0 
 
 ### 1. Start your visual studio 2017. (You may also created in command prompt by using DOTNET commandline tool). 
 Click "New Project" then Select "ASP.Net Core Web Application"

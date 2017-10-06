@@ -14,18 +14,16 @@ If you are interesed this course, please go to www.pluralsight.com. Unfortunatel
 
 ===========================================================================
 
-###Migration Issues: 
+### Migration Issues: 
 
 I was struggling with Migration at "Adding Data with EF Core" module in ASP.Net Core 2.0
 
-1. Packages has to be same in your .csproj : To edit ".csproj" => Right Click on your Project Solution in VisualStudio => Select "Edit <projectName>.csproj"
+### 1. Packages has to be same in your .csproj : To edit ".csproj" => Right Click on your Project Solution in VisualStudio => Select "Edit <projectName>.csproj"
 
-![csproj](https://user-images.githubusercontent.com/15990617/31257842-807635d0-aa97-11e7-84a7-b0c790155171.JPG)
-
-
+![csproj](https://user-images.githubusercontent.com/15990617/31258132-87caaf8a-aa99-11e7-8475-b986966677bc.JPG)
 
 
-2. Both hilighted names has to be same some home (This might not be an issue for you)
+### 2. Both hilighted names has to be same some home (This might not be an issue for you)
 
 ![appsettings](https://user-images.githubusercontent.com/15990617/31258043-ca7f2dca-aa98-11e7-9ac1-3b271933936c.JPG)
 

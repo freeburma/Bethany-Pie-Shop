@@ -28,6 +28,7 @@ I was struggling with Migration at "Adding Data with EF Core" module in ASP.Net 
 ![appsettings](https://user-images.githubusercontent.com/15990617/31258043-ca7f2dca-aa98-11e7-9ac1-3b271933936c.JPG)
 
 
+### 3. See the changes in DbInitializer.cs, Startup.cs and Program.cs  files.
 
 ===========================================================================
 

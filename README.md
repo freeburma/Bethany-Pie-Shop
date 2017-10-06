@@ -30,6 +30,8 @@ I was struggling with Migration at "Adding Data with EF Core" module in ASP.Net 
 
 ### 3. See the changes in DbInitializer.cs, Startup.cs and Program.cs  files.
 
+### 4. $ "Add-Migration <Name> " and $ "Update-Database" inside the "Package Manager Console"
+
 ===========================================================================
 
 

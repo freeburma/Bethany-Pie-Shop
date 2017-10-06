@@ -14,7 +14,7 @@ If you are interesed this course, please go to www.pluralsight.com. Unfortunatel
 
 ===========================================================================
 
-## To reduce the hussles in .Net Core 2.0 
+## To Update PieShop .Net Core 1.1 to .Net Core 2.0 
 
 ### 1. Start your visual studio 2017. (You may also created in command prompt by using DOTNET commandline tool). 
 Click "New Project" then Select "ASP.Net Core Web Application"
@@ -26,8 +26,9 @@ Click "New Project" then Select "ASP.Net Core Web Application"
 ![mvc](https://user-images.githubusercontent.com/15990617/31258946-774fbb54-aa9f-11e7-906b-60870c653333.JPG)
 
 
+### Change the followings.
 
-### 3. Migration Issues: 
+### 4. Migration Issues: 
 
 I was struggling with Migration at "Adding Data with EF Core" module in ASP.Net Core 2.0
 
@@ -41,7 +42,7 @@ I was struggling with Migration at "Adding Data with EF Core" module in ASP.Net 
 ![appsettings](https://user-images.githubusercontent.com/15990617/31258043-ca7f2dca-aa98-11e7-9ac1-3b271933936c.JPG)
 
 
-#### 3. See the changes in DbInitializer.cs, Startup.cs and Program.cs  files.
+#### 3. See the changes in DbInitializer.cs, Startup.cs and Program.cs  files. Some of the codes must change in order to work with .Net Core 2.0. 
 
 #### 4. $ "Add-Migration <Name> " and $ "Update-Database" inside the "Package Manager Console"
 ![migration](https://user-images.githubusercontent.com/15990617/31258398-706806c4-aa9b-11e7-9db0-3537afa76f02.JPG)

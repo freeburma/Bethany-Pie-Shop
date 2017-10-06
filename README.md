@@ -25,6 +25,12 @@ I was struggling with Migration at "Adding Data with EF Core" module in ASP.Net 
 
 
 
+2. Both hilighted names has to be same some home (This might not be an issue for you)
+
+![appsettings](https://user-images.githubusercontent.com/15990617/31258043-ca7f2dca-aa98-11e7-9ac1-3b271933936c.JPG)
+
+
+
 ===========================================================================
 
 

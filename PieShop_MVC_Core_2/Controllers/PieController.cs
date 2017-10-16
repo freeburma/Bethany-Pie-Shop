@@ -80,6 +80,7 @@ namespace PieShop.Controllers
 
 
         // Adding the view for ./Views/Pie/Details.cshtml
+		[Route("[controller]/Details/{id}")]
         public IActionResult Details(int id)
         {
             var pie = _pieRepository.GetPieById(id);

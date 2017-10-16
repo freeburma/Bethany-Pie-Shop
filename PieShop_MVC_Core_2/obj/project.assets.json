@@ -12538,15 +12538,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "E:\\Programing\\ASP .Net\\PieShop_MVC_Core_2\\PieShop_MVC_Core_2\\PieShop_MVC_Core_2.csproj",
+      "projectUniqueName": "E:\\Programing\\ASP .Net\\Pie-Shop\\PieShop_MVC_Core_2\\PieShop_MVC_Core_2.csproj",
       "projectName": "PieShop_MVC_Core_2",
-      "projectPath": "E:\\Programing\\ASP .Net\\PieShop_MVC_Core_2\\PieShop_MVC_Core_2\\PieShop_MVC_Core_2.csproj",
+      "projectPath": "E:\\Programing\\ASP .Net\\Pie-Shop\\PieShop_MVC_Core_2\\PieShop_MVC_Core_2.csproj",
       "packagesPath": "C:\\Users\\hacker\\.nuget\\packages\\",
-      "outputPath": "E:\\Programing\\ASP .Net\\PieShop_MVC_Core_2\\PieShop_MVC_Core_2\\obj\\",
+      "outputPath": "E:\\Programing\\ASP .Net\\Pie-Shop\\PieShop_MVC_Core_2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\dotnet-sdk-2.0.0-win-x64\\sdk\\NuGetFallbackFolder"

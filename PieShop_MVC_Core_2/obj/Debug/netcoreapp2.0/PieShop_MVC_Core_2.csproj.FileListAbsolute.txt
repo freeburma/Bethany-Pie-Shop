@@ -9,3 +9,14 @@ E:\Programing\ASP .Net\PieShop_MVC_Core_2\PieShop_MVC_Core_2\bin\Debug\netcoreap
 E:\Programing\ASP .Net\PieShop_MVC_Core_2\PieShop_MVC_Core_2\obj\Debug\netcoreapp2.0\PieShop_MVC_Core_2.dll
 E:\Programing\ASP .Net\PieShop_MVC_Core_2\PieShop_MVC_Core_2\obj\Debug\netcoreapp2.0\PieShop_MVC_Core_2.pdb
 E:\Programing\ASP .Net\PieShop_MVC_Core_2\PieShop_MVC_Core_2\obj\Debug\netcoreapp2.0\PieShop_MVC_Core_2.csprojResolveAssemblyReference.cache
+E:\Programing\ASP .Net\Pie-Shop\PieShop_MVC_Core_2\bin\Debug\netcoreapp2.0\PieShop_MVC_Core_2.deps.json
+E:\Programing\ASP .Net\Pie-Shop\PieShop_MVC_Core_2\bin\Debug\netcoreapp2.0\PieShop_MVC_Core_2.runtimeconfig.json
+E:\Programing\ASP .Net\Pie-Shop\PieShop_MVC_Core_2\bin\Debug\netcoreapp2.0\PieShop_MVC_Core_2.runtimeconfig.dev.json
+E:\Programing\ASP .Net\Pie-Shop\PieShop_MVC_Core_2\bin\Debug\netcoreapp2.0\PieShop_MVC_Core_2.dll
+E:\Programing\ASP .Net\Pie-Shop\PieShop_MVC_Core_2\bin\Debug\netcoreapp2.0\PieShop_MVC_Core_2.pdb
+E:\Programing\ASP .Net\Pie-Shop\PieShop_MVC_Core_2\obj\Debug\netcoreapp2.0\PieShop_MVC_Core_2.csprojResolveAssemblyReference.cache
+E:\Programing\ASP .Net\Pie-Shop\PieShop_MVC_Core_2\obj\Debug\netcoreapp2.0\PieShop_MVC_Core_2.csproj.CoreCompileInputs.cache
+E:\Programing\ASP .Net\Pie-Shop\PieShop_MVC_Core_2\obj\Debug\netcoreapp2.0\PieShop_MVC_Core_2.AssemblyInfoInputs.cache
+E:\Programing\ASP .Net\Pie-Shop\PieShop_MVC_Core_2\obj\Debug\netcoreapp2.0\PieShop_MVC_Core_2.AssemblyInfo.cs
+E:\Programing\ASP .Net\Pie-Shop\PieShop_MVC_Core_2\obj\Debug\netcoreapp2.0\PieShop_MVC_Core_2.dll
+E:\Programing\ASP .Net\Pie-Shop\PieShop_MVC_Core_2\obj\Debug\netcoreapp2.0\PieShop_MVC_Core_2.pdb
